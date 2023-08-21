@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { Stack, Typography, Box } from "@mui/material";
-import CityInput from "../components/cityInput";
+import CityInput from "../components/CityInput";
 import { useCities } from "../hooks/useCities";
 import { useState } from "react";
 
